@@ -1,0 +1,46 @@
+*{
+  pading:0;
+
+}
+#po{
+  font-family: 'Raleway', sans-serif;
+  overflow:scroll;
+  margin-left:20%;
+  margin-right:20%;
+}
+#page-name{
+  background:#c9ada7;
+  margin:0px;
+  padding:50px;
+}
+div{
+  margin-top:0px;
+  }
+.chicken{
+  background:#4a4e69;
+  border:1px solid black;
+  margin-top:50px;
+  color:white;
+}
+.beef{
+  background:#4a4e69;
+  border:1px solid black;
+  margin-top:50px;
+  color:white;
+}
+.sushi{
+  background:#4a4e69;
+  border:1px solid black;
+  margin-top:50px;
+  color:white;
+  margin-bottom:200px
+}
+p{
+  padding-top:20px;
+  color:white;
+  font-family:Helvetica Neue;
+}
+.modify-container-bg{
+  background:#c9ada7;
+}
+

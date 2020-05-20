@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Document</title>
+</head>
+<body id="po">
+  
+  <nav class="navbar navbar-light font-weight-bolder" style="background-color: #3d5a80;">
+    <a class="navbar-brand" href="index.html">Food.LLC</a>
+    <botton class="navbar-toggler d-block d-sm-none" data-toggle="collapse" data-target="#navbarMenu">
+        <span class=navbar-toggler-icon></span>
+    </botton>
+    <div class="collapse navbar-collapse" id="navbarMenu">
+          <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                      <a href="#" class="nav-link text-center bg-secondary font-weight-bold text-light">Chicken</a>
+                  </li>
+                  <li class="nav-item">
+                      <a href="#" class="nav-link text-center bg-secondary font-weight-bold text-light">Beef</a>
+                  </li>
+                  <li class="nav-item">
+                      <a href="#" class="nav-link text-center bg-secondary font-weight-bold text-light">Sushi</a>
+                  </li>
+          </ul>
+    </div>
+
+  </nav>
+  
+   <div class="container modify-container-bg ">
+      <div class="row">
+        <h2 class="col-lg-12 text-center" id="page-name">Our Menu</h2>
+        <div class="col-lg-12 text-center chicken font-weight-bold">Chicken
+          <p class="font-weight-lighter">
+            The best part about this recipe is that you may already have these      ingredients in your kitchen. If not, they are so easy to find in any grocery store, you won’t need to go searching high and low to find them! Authentic Chicken Tikka Masala is usually made with yogurt marinated chicken, skewered and chargrilled for incredible bbq flavours. For the sake of making this recipe much easier for us to make at home, we are using a skillet or pot to cook it all in, while still keeping those amazing flavours.Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them.It’s so comforting, spicy-sweet-savory and it just generally puts me in a good mood about life. Most of my life revolves around food that is quick and easy and I’m always looking for shortcuts or ways to save time. Using the pressure cooker often is one of my favorite shortcuts of all times! Easy to use and cuts cooking time by hours! And the flavor it creates is just unbelievable!Place four colocassia leaves on a flat surface with light green side facing. Spread a little gram flour mixture evenly on the colocassia leaf, fold the leaf from both sides, roll it tightly from one end to end to other end. Place all the rolls in a steamer and cook for 20 to 25 min,keep aside to cool completely.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them.The best part about this recipe is that you may already have these      ingredients in your kitchen. If not, they are so easy to find in any grocery store, you won’t need to go searching high and low to find them! Authentic Chicken Tikka Masala is usually made with yogurt marinated chicken, skewered and chargrilled for incredible bbq flavours. For the sake of making this recipe much easier for us to make at home, we are using a skillet or pot to cook it all in, while still keeping those amazing flavours.Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them
+          </p>
+        </div>
+        <div class="col-lg-12 text-center beef font-weight-bold">Beef
+        <p class="font-weight-lighter">It’s so comforting, spicy-sweet-savory and it just generally puts me in a good mood about life. Most of my life revolves around food that is quick and easy and I’m always looking for shortcuts or ways to save time. Using the pressure cooker often is one of my favorite shortcuts of all times! Easy to use and cuts cooking time by hours! And the flavor it creates is just unbelievable!Place four colocassia leaves on a flat surface with light green side facing. Spread a little gram flour mixture evenly on the colocassia leaf, fold the leaf from both sides, roll it tightly from one end to end to other end. Place all the rolls in a steamer and cook for 20 to 25 min,keep aside to cool completely.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them.The best part about this recipe is that you may already have these      ingredients in your kitchen. If not, they are so easy to find in any grocery store, you won’t need to go searching high and low to find them! Authentic Chicken Tikka Masala is usually made with yogurt marinated chicken, skewered and chargrilled for incredible bbq flavours. For the sake of making this recipe much easier for us to make at home, we are using a skillet or pot to cook it all in, while still keeping those amazing flavours.Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them
+          </p>
+        </div>
+        <div class="col-lg-12 text-center sushi font-weight-bold">Sushi
+        <p class="font-weight-lighter">
+          Place four colocassia leaves on a flat surface with light green side facing. Spread a little gram flour mixture evenly on the colocassia leaf, fold the leaf from both sides, roll it tightly from one end to end to other end. Place all the rolls in a steamer and cook for 20 to 25 min,keep aside to cool completely.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them.The best part about this recipe is that you may already have these      ingredients in your kitchen. If not, they are so easy to find in any grocery store, you won’t need to go searching high and low to find them! Authentic Chicken Tikka Masala is usually made with yogurt marinated chicken, skewered and chargrilled for incredible bbq flavours. For the sake of making this recipe much easier for us to make at home, we are using a skillet or pot to cook it all in, while still keeping those amazing flavours.Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.Different fonts were used on the Harry Potter book covers, for its chapter title and elsewhere. The lettering used for the book title is very similar to a typeface called Hocus Pocus, which comes in four styles and each with a complete character set. As for the chapter titles and page numbers, a font called Able by Marcus Burlile resembles their lettering. For the handwriting of Rubeus Hagrid, it resembles Felt Tip Roman by Mark Simonson. All mentioned above are commercial fonts and you can follow the links and purchase them
+          </p>
+        </div>
+      </div>
+  </div>
+  <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+ <!-- Footer -->
+<footer class="page-footer font-small blue">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://cheater-eater.com/"> Cheater-Eater.com</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
+  
+  
+</body>
+</html>
